@@ -42,7 +42,7 @@ Takeaway: running a database yourself on K8s is simple at the scale of a single 
 Takeaway: The operator pattern provides the critical breakthrough that enables us to simplify database operations in Kubernetes through automation
 
 *   Extending Kubernetes with custom resources
-*   The Operator pattern
+*   The Operator pattern and levels of operator
 *   NoSQL Case Study: Cass-operator
 *   Relational Case Study: Vitess
 
